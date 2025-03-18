@@ -12,3 +12,5 @@ Para añadir la rama git branch -M main  (con el -M cambias el nombre a la termi
 
 Para ver el nombre de la rama: git branch
 
+Para subir a la nube: git push -u origin main
+
