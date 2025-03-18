@@ -1,0 +1,12 @@
+Comandos github:
+Para saber la verion: git --version
+Para iniciar git: git init		 
+Ver el estado del repocitorio: git status
+Para añadir todos los archivos: git add .
+Para hacer un commit: git commit -m "Mensaje del commit"
+para actualizar siempre git add . y luego haces un commit
+
+Imprimir todos los commits: git log --oneline (El head te dice donde estás)
+
+ 
+
