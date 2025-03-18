@@ -8,5 +8,7 @@ para actualizar siempre git add . y luego haces un commit
 
 Imprimir todos los commits: git log --oneline (El head te dice donde estás)
 
- 
+Para añadir la rama git branch -M main  (con el -M cambias el nombre a la terminal)
+
+Para ver el nombre de la rama: git branch
 
